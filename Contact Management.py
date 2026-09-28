@@ -1,5 +1,4 @@
-#Mraha Ratat Muhaisen
-#ID=220236209
+
 type_list={"family" , "personal","other"}
 i1=-1
 choice={}
